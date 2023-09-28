@@ -1,3 +1,7 @@
+//Caleb Crystal
+//C++
+//lab 2 - Volume / Surface Area of a Cylinder
+
 #include<iostream>
 #include"Cylinder.h"
 
