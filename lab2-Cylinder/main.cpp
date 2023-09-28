@@ -9,8 +9,8 @@ int main()
 {
 
 	Cylinder b;
-	b.setHeight(10.0); // sets Height 
-	b.setRadius(10.0); // sets Radius
+	b.setHeight(3.0); // sets Height 
+	b.setRadius(3.0); // sets Radius
 
 	 std::cout << "Height of Cylinder: " << b.getHeight() << std::endl << "Radius of Cylinder: " << b.getRadius() << std::endl;
 	 // outputs the height and the radius of the cylinder to the screen 
